@@ -24,25 +24,25 @@ Wolf, R., & Armstrong, C. (2019). D.C. Enrollment Project Data Archive (Version 
 ```
 Where students attended schools in 2015 after their school was closed in 2014. 
 ```
-![](Animations/closed_schools_2014_schtype.gif)
+![](Visualizations/closed_schools_2014_schtype.gif)
 ```
 Where students attended schools in 2016 after their school was closed in 2015. 
 ```
-![](Animations/closed_schools_2015_schtype.gif)
+![](Visualizations/closed_schools_2015_schtype.gif)
 ```
 Where students previously attended schools in 2014 before attending a new school in 2015.
 ```
-![](Animations/new_schools_2015_schtype.gif)
+![](Visualizations/new_schools_2015_schtype.gif)
 ```
 Where students previously attended schools in 2014 before attending a new school in 2016. 
 ```
-![](Animations/new_schools_2016_schtype.gif)
+![](Visualizations/new_schools_2016_schtype.gif)
 
 ### Dashboard of School Mobility Patterns of Students in D.C. from 2014-15 through 2017-18
 
 This [dashboard](https://jhu-crre.shinyapps.io/dc-student-mobility-patterns/) shows the patterns in how students moved across schools between consecutive school years from the 2014–15 to 2017–18 school years. The data are available for each school and can be disaggregated by students in matriculating or non-matriculating grades. Students were flagged as being in a matriculating grade if they were in the last grade that the school offered in a given school year. Below is an example of one school's mobility patterns.
 
-![](https://github.com/betsyjwolf/DC-Enrollment-Study/blob/master/Dashboard%20Example/walls.PNG)
+![](Visualizations/walls.PNG)
 
 ### List of Public Use Datasets Produced for this Project
 
