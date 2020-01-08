@@ -12,9 +12,9 @@ This study provides a more robust investigation into the relationship between en
 
 This folder includes public use datasets, animations, and dashboards created for this project. 
 
-## License to Use These Data
+## Citation
 
-These data are made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
+Please cite the data as:
 
 Wolf, R., & Armstrong, C. (2019). D.C. Enrollment Project Data Archive (Version 1.0). https://github.com/betsyjwolf/DC-Enrollment-Study
 
