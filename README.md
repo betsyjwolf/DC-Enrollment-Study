@@ -76,7 +76,7 @@ Distance from home to school:
 ```
 Other:
 ```
-- [Accuracy of enrollment projections](Datasets/accuracy_projections_v1.xlsx): By year and school, the percentage of error in enrollment projections overall, by grade, and by student subgroup. Note that subgroup projections were available for charter schools in the 2017–18 school year only. 
+- [Accuracy of enrollment projections](Datasets/accuracy_projections_v2.xlsx): By year and school, the percentage of error in enrollment projections overall, by grade, and by student subgroup. Note that subgroup projections were available for charter schools in the 2017–18 school year only. 
 
 - [Ninth grade retention rates](Datasets/ninth_grade_retention_rates_v1.xlsx): By consecutive years and subgroup, numbers and percentage of ninth grade students who repeated the ninth grade. 
 
