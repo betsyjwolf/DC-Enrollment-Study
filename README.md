@@ -14,7 +14,7 @@ This folder includes public use datasets, animations, and dashboards created for
 
 ## Citation
 
-Please cite the data as:
+Please cite the data products as:
 
 Wolf, R., & Armstrong, C. (2019). D.C. Enrollment Project Data Archive (Version 1.0). https://github.com/betsyjwolf/DC-Enrollment-Study
 
