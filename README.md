@@ -16,7 +16,7 @@ This folder includes public use datasets, animations, and dashboards created for
 
 Please cite the data products as:
 
-Wolf, R., & Armstrong, C. (2019). D.C. Enrollment Project Data Archive (Version 1.0). https://github.com/betsyjwolf/DC-Enrollment-Study
+Wolf, R., & Armstrong, C. (2019). Data archive for the "Study of enrollment projections for DC's public schools" (Version 1.0). https://github.com/betsyjwolf/DC-Enrollment-Study
 
 ### Animations Showing School Movement Before New Schools and After Closed Schools
 ```
