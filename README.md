@@ -52,7 +52,7 @@ School demand:
 - [Lottery system](Datasets/lottery_system_v1.xlsx): By year and grade, average number of schools applied to in the lottery as well as number of students applying in the lottery each year.
 - [Lottery school](Datasets/lottery_school_v1.xlsx): By school and year and grade, number of students who ranked school #1, #2, #3, etc. in the lottery and number of students who listed the school in their lottery application at any rank or listed the school as one of their top three choices. Also includes seats offered, enrollment, waitlist length, and waitlist offers made by June, August, and October, and lottery preferences available for the school.
 - [In-boundary system](Datasets/inboundary_system_v1.xlsx): By student subgroup and year, the in-boundary capture rate and DCPS by-right capture rate. Note this file contains only DCPS in-boundary schools. By-right was determined by feeder patterns and enrollment in the school in the previous year. 
-- [In-boundary school](Datasets/lottery_school_v1.xlsx): By school and year, the DCPS in-boundary capture rate, the percent of students attending the school who were in-boundary, and the number of students living in the boundary who were in the public school system. Note this file contains only DCPS in-boundary schools.
+- [In-boundary school](Datasets/inboundary_school_v1.xlsx): By school and year, the DCPS in-boundary capture rate, the percent of students attending the school who were in-boundary, and the number of students living in the boundary who were in the public school system. Note this file contains only DCPS in-boundary schools.
 ```
 School mobility:
 ```
